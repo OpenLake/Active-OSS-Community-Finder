@@ -20,10 +20,7 @@ This project exists thanks to all the people who contribute. [[Contribute](CONTR
 
 ## Maintainers
 
-👤 **Kumar Shivendu**
-- Github: [@KShivendu](https://github.com/KShivendu)
-
-👤 **Aastha Asthana**
-- Github: [@aastha1999](https://github.com/aastha1999)
+👤 **Kumar Shivendu** [@KShivendu](https://github.com/KShivendu)
+👤 **Aastha Asthana** [@aastha1999](https://github.com/aastha1999)
 
 ---
